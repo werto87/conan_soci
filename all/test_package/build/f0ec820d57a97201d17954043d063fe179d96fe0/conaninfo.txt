@@ -1,0 +1,42 @@
+[settings]
+    arch=x86_64
+    compiler=clang
+    compiler.libcxx=libstdc++11
+    compiler.version=13
+    os=Linux
+
+[requires]
+    soci/4.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    compiler=clang
+    compiler.libcxx=libstdc++11
+    compiler.version=13
+    os=Linux
+
+[full_requires]
+    soci/4.0.2@walde/stable:7bb5b40c926161eb50241fa9e19e01cbffbf8509
+
+[full_options]
+    soci:empty=False
+    soci:fPIC=True
+    soci:shared=False
+    soci:with_boost=False
+    soci:with_db2=False
+    soci:with_firebird=False
+    soci:with_mysql=False
+    soci:with_odbc=False
+    soci:with_oracle=False
+    soci:with_postgresql=False
+    soci:with_sqlite3=False
+
+[recipe_hash]
+
+
+[env]
+    CC=/usr/bin/clang
+    CXX=/usr/bin/clang++

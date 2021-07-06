@@ -1,0 +1,25 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "soci:empty=False\nsoci:fPIC=True\nsoci:shared=False\nsoci:with_boost=False\nsoci:with_db2=False\nsoci:with_firebird=False\nsoci:with_mysql=False\nsoci:with_odbc=False\nsoci:with_oracle=False\nsoci:with_postgresql=False\nsoci:with_sqlite3=False",
+    "requires": [
+     "1"
+    ],
+    "path": "../../conanfile.py",
+    "context": "host"
+   },
+   "1": {
+    "ref": "soci/4.0.2@walde/stable",
+    "options": "empty=False\nfPIC=True\nshared=False\nwith_boost=False\nwith_db2=False\nwith_firebird=False\nwith_mysql=False\nwith_odbc=False\nwith_oracle=False\nwith_postgresql=False\nwith_sqlite3=False",
+    "package_id": "7bb5b40c926161eb50241fa9e19e01cbffbf8509",
+    "prev": "0",
+    "modified": true,
+    "context": "host"
+   }
+  },
+  "revisions_enabled": false
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=x86_64\ncompiler=clang\ncompiler.libcxx=libstdc++11\ncompiler.version=13\nos=Linux\n[options]\n[build_requires]\n[env]\nCC=/usr/bin/clang\nCXX=/usr/bin/clang++"
+}
