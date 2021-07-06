@@ -1,1 +1,0 @@
-/usr/bin/clang++   -m64 -stdlib=libstdc++ -rdynamic CMakeFiles/test_package.dir/test_package.cpp.o -o bin/test_package   -L/home/walde/.conan/data/soci/4.0.2/walde/stable/package/7bb5b40c926161eb50241fa9e19e01cbffbf8509/lib  -Wl,-rpath,/home/walde/.conan/data/soci/4.0.2/walde/stable/package/7bb5b40c926161eb50241fa9e19e01cbffbf8509/lib -lsoci_core 

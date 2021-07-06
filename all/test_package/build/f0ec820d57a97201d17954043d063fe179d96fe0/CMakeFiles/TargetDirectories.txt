@@ -1,3 +1,0 @@
-/home/walde/conan-center-index/recipes/soci/all/test_package/build/f0ec820d57a97201d17954043d063fe179d96fe0/CMakeFiles/rebuild_cache.dir
-/home/walde/conan-center-index/recipes/soci/all/test_package/build/f0ec820d57a97201d17954043d063fe179d96fe0/CMakeFiles/edit_cache.dir
-/home/walde/conan-center-index/recipes/soci/all/test_package/build/f0ec820d57a97201d17954043d063fe179d96fe0/CMakeFiles/test_package.dir
